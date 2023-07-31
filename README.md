@@ -25,14 +25,14 @@ npm run dev
 - Estilizado con Tailwind CSS: La aplicación utiliza Tailwind CSS para el diseño y el estilizado.
 
 ## Tecnologías Utilizadas
-React.js
-TypeScript
-Tailwind CSS
+- React.js
+- TypeScript
+- Tailwind CSS
 
 ## Futuras Mejoras
-Incorporar un backend para almacenar las tareas y que persistan entre sesiones.
-Agregar la capacidad de editar y eliminar tareas.
-Implementar autenticación de usuarios para permitir múltiples usuarios y listas de tareas personalizadas.
+- Incorporar un backend para almacenar las tareas y que persistan entre sesiones.
+- Agregar la capacidad de editar y eliminar tareas.
+- Implementar autenticación de usuarios para permitir múltiples usuarios y listas de tareas personalizadas.
 
 ## Contribuciones
 Las contribuciones son siempre bienvenidas. Si tienes alguna idea de cómo mejorar la aplicación, por favor, no dudes en hacer un fork del repositorio y enviar una pull request.
