@@ -5,5 +5,15 @@ Para instalar y ejecutar este proyecto localmente, necesitarás tener Node.js y 
 Primero, clona el repositorio a tu máquina local utilizando git:
 
 ``` bash
-git clone https://github.com/<tu-username>/<nombre-del-repo>.git
+git clone https://github.com/Mathew288/CAYR.git
+```
+Luego, navega hasta el directorio del proyecto e instala las dependencias del proyecto:
+```bash
+npm install
+```
+
+Ejecuta: 
+
+```bash
+npm run dev
 ```
