@@ -38,4 +38,4 @@ npm run dev
 Las contribuciones son siempre bienvenidas. Si tienes alguna idea de cómo mejorar la aplicación, por favor, no dudes en hacer un fork del repositorio y enviar una pull request.
 
 ## Preview:
-![preview pagina principal](cayr preview.png)
+![preview pagina principal](cayrpreview.png)
