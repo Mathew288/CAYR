@@ -1,0 +1,26 @@
+#logo-cayr{
+ aspect-ratio: 3/1;
+ height: 120px;
+ object-fit: cover;
+}
+
+
+header#header{
+    width: 100%;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+header>nav>ul>li>a{
+    font-size: 20px;
+    color: #fff; text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+nav{
+    margin-right: 5%;
+}
